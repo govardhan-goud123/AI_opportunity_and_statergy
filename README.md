@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="AI Opportunity and Strategy Banner">
+<img src="AI Opportunity and Strategy Banner.png" width="100%" alt="AI Opportunity and Strategy Banner">
 
 <br>
 
