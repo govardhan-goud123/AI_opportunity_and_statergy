@@ -186,6 +186,7 @@ The final metrics should match the selected initiative. Improvements must be dem
 <br><br>
 
 <img src="https://img.shields.io/badge/Data%20Analysis-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Numerical%20Computing-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 <img src="https://img.shields.io/badge/Visualization-Matplotlib-11557C?style=flat-square" alt="Matplotlib">
 
 </div>
