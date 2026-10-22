@@ -1,18 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=250&section=header&text=AI%20OPPORTUNITY%20%26%20STRATEGY&fontSize=32&fontColor=FFFFFF&fontAlignY=40&desc=Intelligent%20Decisions%20%7C%20Business%20Impact&descSize=16&descAlignY=60" width="100%" alt="AI Opportunity and Strategy Banner" />
+# AI OPPORTUNITY & STRATEGY
 
-<br/>
+### Artificial Intelligence for Business Decisions
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Meets+Business;Discover+Opportunities;Analyze+Business+Impact;Build+Smarter+AI+Strategies" alt="Animated project introduction" />
+Discover Opportunities. Analyze Business Impact. Build Smarter AI Strategies.
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Meets+Business;Discover+Opportunities;Analyze+Business+Impact;Build+Smarter+AI+Strategies" alt="Animated project introduction"/>
 
-<img src="https://img.shields.io/badge/PROJECT-IABAC%20P101-06B6D4?style=for-the-badge&labelColor=0F172A" alt="IABAC P101" />
-<img src="https://img.shields.io/badge/DOMAIN-AI%20STRATEGY-2563EB?style=for-the-badge&labelColor=0F172A" alt="AI Strategy" />
-<img src="https://img.shields.io/badge/INDUSTRY-RETAIL-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Retail" />
+</div>
 
-<br/><br/>
+---
+
 
 **A business-focused exploration of artificial intelligence opportunities and strategic decision-making.**
 
