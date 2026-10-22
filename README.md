@@ -1,15 +1,12 @@
 <div align="center">
 
-<div align="center">
-
 <img src="banner.png" width="100%" alt="AI Opportunity and Strategy Banner">
 
-</div>
+<br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=AI%20Opportunity%20%26%20Strategy&fontSize=38&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20for%20Business%20Decisions&descSize=16&descAlignY=58" width="100%" alt="AI Opportunity and Strategy animated banner">
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Discover+AI+Opportunities;Analyze+Business+Impact;Build+Smarter+AI+Strategies" alt="Animated AI project introduction">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Discover+AI+Opportunities;Analyze+Business+Impact;Build+Smarter+AI+Strategies" alt="Animated AI project text">
+<br>
 
 **IABAC P101 | AI Business Leader | Retail Case Study**
 
@@ -17,12 +14,8 @@
 
 ---
 
-
 **A business-focused exploration of artificial intelligence opportunities and strategic decision-making.**
 
-</div>
-
----
 ## 01 — Project Overview
 
 Artificial intelligence is reshaping the way organizations operate, understand customers, analyze information, and make strategic decisions.
@@ -33,48 +26,14 @@ This project examines AI opportunities for Horizon Retail, a fictional retail or
 
 The goal is to develop a structured, evidence-based approach to AI strategy.
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2878FF,50:00D4AA,100:8B5CF6" width="90%" alt="Section divider"/>
-
-</div>
-
 ## 02 — Project at a Glance
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-**PROJECT DOMAIN**
-
-Artificial Intelligence
-
-</td>
-<td width="50%" align="center">
-
-**BUSINESS DOMAIN**
-
-Retail Strategy
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**ASSESSMENT**
-
-IABAC P101
-
-</td>
-<td width="50%" align="center">
-
-**PROJECT FORMAT**
-
-Jupyter Notebook
-
-</td>
-</tr>
-</table>
+| Category        | Details                 |
+| --------------- | ----------------------- |
+| Project Domain  | Artificial Intelligence |
+| Business Domain | Retail Strategy         |
+| Assessment      | IABAC P101              |
+| Project Format  | Jupyter Notebook        |
 
 ## 03 — The Business Challenge
 
@@ -98,7 +57,7 @@ The project explores several potential opportunities:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=700&color=2878FF&center=true&vCenter=true&width=650&lines=Predictive+Analytics;Natural+Language+Processing;Customer+Intelligence;Intelligent+Recommendation+Systems" alt="Animated AI opportunity categories"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=700&color=2878FF&center=true&vCenter=true&width=650&lines=Predictive+Analytics;Natural+Language+Processing;Customer+Intelligence;Intelligent+Recommendation+Systems" alt="Animated AI opportunity categories">
 
 </div>
 
@@ -130,8 +89,6 @@ These are candidate opportunities. The final recommendation must be supported by
 
 ## 05 — Strategic Workflow
 
-<div align="center">
-
 ```mermaid
 flowchart TD
     A["BUSINESS UNDERSTANDING"] --> B["AI OPPORTUNITY DISCOVERY"]
@@ -154,8 +111,6 @@ flowchart TD
     style I fill:#00D4AA,color:#10172A,stroke:#FFFFFF,stroke-width:2px
 ```
 
-</div>
-
 The workflow moves from business understanding to opportunity discovery, evaluation, prioritization, implementation planning, and strategic recommendation.
 
 ## 06 — Evaluation Framework
@@ -176,8 +131,6 @@ The preferred initiative should balance potential value with feasibility, invest
 Actual rankings should follow the notebook's analysis.
 
 ## 07 — The 90-Day Implementation Vision
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D4AA,50:2878FF,100:8B5CF6" alt="Implementation divider"/>
 
 ### Phase 1 — Discovery
 
@@ -228,13 +181,13 @@ The final metrics should match the selected initiative. Improvements must be dem
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,jupyter,git,github" alt="Python, Jupyter, Git and GitHub technology icons"/>
+<img src="https://skillicons.dev/icons?i=python,jupyter,git,github" alt="Python, Jupyter, Git and GitHub technology icons">
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Data%20Analysis-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Numerical%20Computing-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Visualization-Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Numerical%20Computing-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Visualization-Matplotlib-11557C?style=flat-square" alt="Matplotlib">
 
 </div>
 
@@ -246,8 +199,8 @@ These are relevant tools for this type of project. Confirm the exact libraries u
 AI_opportunity_and_statergy/
 |
 |-- IABAC_AI_Business_Leader_P101_Attractive.ipynb
+|-- banner.png
 |-- README.md
-|
 ```
 
 The notebook contains the main project analysis. Add any required datasets, reports, and supporting documents before submitting the assessment.
@@ -316,19 +269,17 @@ This project demonstrates a structured approach to evaluating AI from a business
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Govardhan+Goud;AI+%26+Data+Science;Building+Practical+AI+Projects" alt="Animated author introduction"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Govardhan+Goud;AI+%26+Data+Science;Building+Practical+AI+Projects" alt="Animated author introduction">
 
 **Aspiring AI and Data Science Professional**
 
 Interested in artificial intelligence, machine learning, natural language processing, data analysis, and practical business applications.
 
 <a href="https://github.com/govardhan-goud123">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
 </a>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:080B1A,50:123B70,100:00D4AA" alt="Decorative footer banner"/>
+<br><br>
 
 **AI STRATEGY | BUSINESS INTELLIGENCE | DATA-DRIVEN DECISION MAKING**
 
