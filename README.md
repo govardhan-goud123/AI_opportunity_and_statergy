@@ -1,6 +1,11 @@
 <div align="center">
 
-<a href="https://github.com/govardhan-goud123/AI_opportunity_and_statergy">
+<div align="center">
+
+<img src="banner.png" width="100%" alt="AI Opportunity and Strategy Banner">
+
+</div>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=AI%20Opportunity%20%26%20Strategy&fontSize=38&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20for%20Business%20Decisions&descSize=16&descAlignY=58" width="100%" alt="AI Opportunity and Strategy animated banner">
 </a>
 
