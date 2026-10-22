@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=250&section=header&text=AI%20OPPORTUNITY%20%26%20STRATEGY&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20Business%20Impact%20%7C%20Smart%20Decisions&descSize=14&descAlignY=60" width="100%" alt="AI Opportunity and Strategy Animated Banner"/>
+<a href="https://github.com/govardhan-goud123/AI_opportunity_and_statergy">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=AI%20Opportunity%20%26%20Strategy&fontSize=38&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20for%20Business%20Decisions&descSize=16&descAlignY=58" width="100%" alt="AI Opportunity and Strategy animated banner">
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Meets+Business;Discover+Hidden+Business+Opportunities;Transform+Data+Into+Insights;Build+Smarter+AI+Strategies" alt="Animated AI project text"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Discover+AI+Opportunities;Analyze+Business+Impact;Build+Smarter+AI+Strategies" alt="Animated AI project text">
+
+**IABAC P101 | AI Business Leader | Retail Case Study**
 
 </div>
 
