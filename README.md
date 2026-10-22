@@ -1,12 +1,8 @@
 <div align="center">
 
-# AI OPPORTUNITY & STRATEGY
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=250&section=header&text=AI%20OPPORTUNITY%20%26%20STRATEGY&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20Business%20Impact%20%7C%20Smart%20Decisions&descSize=14&descAlignY=60" width="100%" alt="AI Opportunity and Strategy Animated Banner"/>
 
-### Artificial Intelligence for Business Decisions
-
-Discover Opportunities. Analyze Business Impact. Build Smarter AI Strategies.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Meets+Business;Discover+Opportunities;Analyze+Business+Impact;Build+Smarter+AI+Strategies" alt="Animated project introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Meets+Business;Discover+Hidden+Business+Opportunities;Transform+Data+Into+Insights;Build+Smarter+AI+Strategies" alt="Animated AI project text"/>
 
 </div>
 
