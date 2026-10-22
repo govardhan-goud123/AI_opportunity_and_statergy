@@ -1,28 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:080B1A,35:123B70,70:007F86,100:00D4AA&text=AI%20OPPORTUNITY%20%26%20STRATEGY&fontSize=34&fontColor=FFFFFF&fontAlignY=42&desc=Intelligence%20Meets%20Business%20Strategy&descSize=17&descAlignY=62" alt="AI Opportunity and Strategy Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=250&section=header&text=AI%20OPPORTUNITY%20%26%20STRATEGY&fontSize=32&fontColor=FFFFFF&fontAlignY=40&desc=Intelligent%20Decisions%20%7C%20Business%20Impact&descSize=16&descAlignY=60" width="100%" alt="AI Opportunity and Strategy Banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=00D4AA&center=true&vCenter=true&width=750&lines=Think+Strategically.;Analyze+Intelligently.;Discover+AI+Opportunities.;Turn+Business+Problems+Into+Solutions." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Meets+Business;Discover+Opportunities;Analyze+Business+Impact;Build+Smarter+AI+Strategies" alt="Animated project introduction" />
 
 <br/><br/>
 
-<a href="https://github.com/govardhan-goud123">
-<img src="https://img.shields.io/badge/GitHub-Govardhan%20Goud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/PROJECT-IABAC%20P101-00D4AA?style=for-the-badge&labelColor=10172A" alt="IABAC P101"/>
-<img src="https://img.shields.io/badge/DOMAIN-AI%20STRATEGY-2878FF?style=for-the-badge&labelColor=10172A" alt="AI Strategy"/>
-<img src="https://img.shields.io/badge/INDUSTRY-RETAIL-8B5CF6?style=for-the-badge&labelColor=10172A" alt="Retail"/>
+<img src="https://img.shields.io/badge/PROJECT-IABAC%20P101-06B6D4?style=for-the-badge&labelColor=0F172A" alt="IABAC P101" />
+<img src="https://img.shields.io/badge/DOMAIN-AI%20STRATEGY-2563EB?style=for-the-badge&labelColor=0F172A" alt="AI Strategy" />
+<img src="https://img.shields.io/badge/INDUSTRY-RETAIL-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Retail" />
 
 <br/><br/>
 
-**A business-focused AI case study exploring opportunity discovery, strategic prioritization, and responsible AI adoption.**
+**A business-focused exploration of artificial intelligence opportunities and strategic decision-making.**
 
 </div>
 
 ---
-
 ## 01 — Project Overview
 
 Artificial intelligence is reshaping the way organizations operate, understand customers, analyze information, and make strategic decisions.
